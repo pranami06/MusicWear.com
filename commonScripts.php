@@ -18,7 +18,7 @@
     <!--CSS links-->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/flexslider.css">
-<!--    <link rel="stylesheet" href="css/jquery.fancybox.css">-->
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/font-icon.css">

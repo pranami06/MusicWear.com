@@ -52,6 +52,8 @@ window.Modernizr = (function( window, document, undefined ) {
     /*>>smile*/
 
     toString = {}.toString,
+
+    // TODO :: make the prefixes more granular
     /*>>prefixes*/
     // List of property values to set for css tests. See ticket #21
     prefixes = ' -webkit- -moz- -o- -ms- '.split(' '),
@@ -219,6 +221,8 @@ window.Modernizr = (function( window, document, undefined ) {
       return isEventSupported;
     })(),
     /*>>hasevent*/
+
+    // TODO :: Add flag for hasownprop ? didn't last time
 
     // hasOwnProperty shim by kangax needed for Safari 2.0 support
     _hasOwnProperty = ({}).hasOwnProperty, hasOwnProp;
@@ -620,6 +624,7 @@ window.Modernizr = (function( window, document, undefined ) {
             str3 = 'linear-gradient(left top,#9f9, white);';
 
         setCss(
+             // legacy webkit syntax (FIXME: remove when syntax not in use anymore)
               (str1 + '-webkit- '.split(' ').join(str2 + str1) +
              // standard syntax             // trailing 'background-image:'
               prefixes.join(str3 + str1)).slice(0, -str1.length)
@@ -928,6 +933,7 @@ window.Modernizr = (function( window, document, undefined ) {
 
 
     // Run through all tests and detect their support in the current UA.
+    // todo: hypothetically we could be doing an array of tests and use a basic loop here.
     for ( var feature in tests ) {
         if ( hasOwnProp(tests, feature) ) {
             // run the test, throw the return value into the Modernizr,

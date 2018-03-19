@@ -1,2 +1,2 @@
-# MusicWear.com
-An ecommerce website
+# MusicWear
+An e-commerce application
