@@ -21,6 +21,7 @@ $db_name = substr($url["path"],1);
 
 
 
+
 //following variable declaration is for next class :)
 GLOBAL $errors;
 GLOBAL $successes;
