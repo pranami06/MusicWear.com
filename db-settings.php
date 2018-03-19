@@ -13,11 +13,17 @@
 //$db_pass = "root"; //Password for database user
 //$db_table_prefix = ""; // if the table prefix exists use this variable as a global
 
-$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
-$db_host = $url["host"];
-$db_user = $url["user"];
-$db_pass = $url["pass"];
-$db_name = substr($url["path"],1);
+//$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+//$db_host = $url["host"];
+//$db_user = $url["user"];
+//$db_pass = $url["pass"];
+//$db_name = substr($url["path"],1);
+
+$db_host ="us-cdbr-iron-east-05.cleardb.net";
+$db_user = "bb36d2f8aedc8f";
+$db_pass = "f38cdb72";
+$db_name = "heroku_a6d09a388de6f83";
+
 
 
 
