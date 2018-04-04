@@ -144,7 +144,7 @@ require_once ("config.php");
                             <h2 style="color: white">Top Deals</h2>
                             <hr>
                             <blockquote>
-                                <img class="sliderimage" src="images/product_images/beats/2.png">
+                                <img class="sliderimage" src="images/product_images/Beats/2.png">
                                 <h2>  "Beats studio 3"</h2>
                                 <h1> Regular price- $299</h1>
                                 <h1 style="color: red"> Our price- $249</h1>
@@ -158,7 +158,7 @@ require_once ("config.php");
                             <h2 style="color: white">Top Deals</h2>
                             <hr>
                             <blockquote>
-                                <img class="sliderimage" src="images/product_images/Skullcandy/3.png">
+                                <img class="sliderimage" src="images/product_images/SkullCandy/3.png">
                                 <h2>  "Skullcandy crusher"</h2>
                                 <h1> Regular price- $199</h1>
                                 <h1 style="color: red"> Our price- $129</h1>
@@ -172,7 +172,7 @@ require_once ("config.php");
                             <h2 style="color: white">Top Deals</h2>
                             <hr>
                             <blockquote>
-                                <img class="sliderimage" src="images/product_images/beats/4.png">
+                                <img class="sliderimage" src="images/product_images/Beats/4.png">
                                 <h2>  "Beats solo 3"</h2>
                                 <h1> Regular price- $299</h1>
                                 <h1 style="color: red"> Our price- $199</h1>
