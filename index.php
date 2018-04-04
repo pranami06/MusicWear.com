@@ -81,7 +81,7 @@ require_once ("config.php");
                     </div>
                     <!-- overlay -->
                 </a> </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 products-div work"> <a href="images/product_images/SkullCandy/3.png" class="work-box"> <img  src="images/product_images/Skullcandy/3.png" alt="">
+            <div class="col-lg-3 col-md-6 col-sm-6 products-div work"> <a href="images/product_images/Skullcandy/3.png" class="work-box"> <img  src="images/product_images/Skullcandy/3.png" alt="">
                     <h4 style="color: steelblue; text-align: center; font-weight: bolder">Skullcandy Crusher</h4>
                     <h6 style="color: red; text-align: center; font-weight: bold">Price - $99.00</h6>
                     <div class="overlay">
