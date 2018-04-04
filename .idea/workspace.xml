@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a597f53-7ee6-4280-a670-12d1aa1964c6" name="Default" comment="font files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/viewProduct.php" afterPath="$PROJECT_DIR$/viewProduct.php" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +51,7 @@
       <file leaf-file-name="viewProduct.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/viewProduct.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
+            <state relative-caret-position="759">
               <caret line="48" column="39" lean-forward="false" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
               <folding />
             </state>
@@ -62,8 +61,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="858">
+              <caret line="54" column="115" lean-forward="true" selection-start-line="54" selection-start-column="115" selection-end-line="54" selection-end-column="115" />
               <folding />
             </state>
           </provider>
@@ -80,7 +79,7 @@
         </entry>
       </file>
       <file leaf-file-name="1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/product_images/beats/1.png">
+        <entry file="file://$PROJECT_DIR$/images/product_images/Beats/1.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -117,6 +116,7 @@
         <option value="$PROJECT_DIR$/fonts/elegant-theme-line.svg" />
         <option value="$PROJECT_DIR$/db-settings.php" />
         <option value="$PROJECT_DIR$/viewProduct.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -160,6 +160,17 @@
             <path>
               <item name="MusicWear.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="MusicWear.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="MusicWear.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicWear.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="MusicWear.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicWear.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="product_images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -211,7 +222,7 @@
       <workItem from="1521436958682" duration="314000" />
       <workItem from="1522871652155" duration="37000" />
       <workItem from="1522872567296" duration="104000" />
-      <workItem from="1522872733342" duration="5000" />
+      <workItem from="1522872733342" duration="902000" />
     </task>
     <task id="LOCAL-00001" summary="All files copied here">
       <created>1521411312078</created>
@@ -245,7 +256,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5982000" />
+    <option name="totallyTimeSpent" value="6879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,7 +343,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/product_images/beats/1.png">
+    <entry file="file://$PROJECT_DIR$/images/product_images/Beats/1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -369,7 +380,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/product_images/beats/1.png">
+    <entry file="file://$PROJECT_DIR$/images/product_images/Beats/1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -406,7 +417,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/product_images/beats/1.png">
+    <entry file="file://$PROJECT_DIR$/images/product_images/Beats/1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -443,7 +454,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/product_images/beats/1.png">
+    <entry file="file://$PROJECT_DIR$/images/product_images/Beats/1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -579,20 +590,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/product_images/beats/1.png">
+    <entry file="file://$PROJECT_DIR$/images/product_images/Beats/1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fonts/elegant-theme-line.svg" />
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1513">
@@ -616,9 +619,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/banner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="54" column="115" lean-forward="true" selection-start-line="54" selection-start-column="115" selection-end-line="54" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/viewProduct.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
+        <state relative-caret-position="759">
           <caret line="48" column="39" lean-forward="false" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
           <folding />
         </state>
