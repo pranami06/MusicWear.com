@@ -46,7 +46,7 @@ require_once("navigationMenu.php");
                     <hr>
                     <div class="row">
                         <div class="col-md-5">
-                            <a href="images/product_images/<?php echo $BrandNames[$x]?>/<?php echo $PImages[$x]?>" class="work-box">
+                            <a href="./images/product_images/<?php echo $BrandNames[$x]?>/<?php echo $PImages[$x]?>" class="work-box">
                                 <img class="product-image" src="images/product_images/<?php echo $BrandNames[$x]?>/<?php echo $PImages[$x]?>" alt="">
                             </a>
                         </div>
