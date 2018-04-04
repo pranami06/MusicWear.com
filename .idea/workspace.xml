@@ -41,7 +41,7 @@
       <file leaf-file-name="db-settings.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db-settings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
+            <state relative-caret-position="0">
               <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
               <folding />
             </state>
@@ -51,7 +51,7 @@
       <file leaf-file-name="viewProduct.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/viewProduct.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
+            <state relative-caret-position="-15">
               <caret line="48" column="39" lean-forward="false" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
               <folding />
             </state>
@@ -61,8 +61,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="111" column="36" lean-forward="true" selection-start-line="111" selection-start-column="36" selection-end-line="111" selection-end-column="36" />
+            <state relative-caret-position="-462">
+              <caret line="83" column="54" lean-forward="true" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -71,7 +71,7 @@
       <file leaf-file-name="navigationMenu.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/navigationMenu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
+            <state relative-caret-position="0">
               <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
               <folding />
             </state>
@@ -132,7 +132,7 @@
       <path value="$PROJECT_DIR$/vendor/heroku/heroku-buildpack-php" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="20" />
     <option name="y" value="40" />
     <option name="width" value="1504" />
@@ -182,7 +182,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -223,7 +223,7 @@
       <workItem from="1522871652155" duration="37000" />
       <workItem from="1522872567296" duration="104000" />
       <workItem from="1522872733342" duration="902000" />
-      <workItem from="1522874233364" duration="378000" />
+      <workItem from="1522874233364" duration="796000" />
     </task>
     <task id="LOCAL-00001" summary="All files copied here">
       <created>1521411312078</created>
@@ -257,7 +257,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7257000" />
+    <option name="totallyTimeSpent" value="7675000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -269,7 +269,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2586" height="1466" extended-state="7" />
+    <frame x="-13" y="-13" width="2586" height="1466" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -619,7 +619,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/navigationMenu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
+        <state relative-caret-position="0">
           <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
           <folding />
         </state>
@@ -627,7 +627,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db-settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
+        <state relative-caret-position="0">
           <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding />
         </state>
@@ -640,7 +640,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/viewProduct.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
+        <state relative-caret-position="-15">
           <caret line="48" column="39" lean-forward="false" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
           <folding />
         </state>
@@ -648,8 +648,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="111" column="36" lean-forward="true" selection-start-line="111" selection-start-column="36" selection-end-line="111" selection-end-column="36" />
+        <state relative-caret-position="-462">
+          <caret line="83" column="54" lean-forward="true" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
           <folding />
         </state>
       </provider>
