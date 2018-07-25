@@ -13,6 +13,7 @@
 //$db_pass = "root"; //Password for database user
 //$db_table_prefix = ""; // if the table prefix exists use this variable as a global
 
+// Heroku information
 $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
 $db_host = $url["host"];
 $db_user = $url["user"];
